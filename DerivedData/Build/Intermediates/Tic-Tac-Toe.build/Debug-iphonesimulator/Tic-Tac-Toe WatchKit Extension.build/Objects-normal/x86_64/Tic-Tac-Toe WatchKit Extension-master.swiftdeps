@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.44.6 clang-602.0.45)"
+options: "91d67ba4715154542f519e92354aab6f"
+inputs: 
+- "/Users/phanidharmothukuri/Tic-Tac-Toe/Tic-Tac-Toe WatchKit Extension/NotificationController.swift"
+- "/Users/phanidharmothukuri/Tic-Tac-Toe/Tic-Tac-Toe WatchKit Extension/InterfaceController.swift"

@@ -9,10 +9,11 @@
 import UIKit
 import AVFoundation
 class ViewController: UIViewController {
-var winner = 0
+    var date = NSDate()
+    var winner = 0
     var i=0
     var col1 = UIColor.yellowColor()
-var col2 = UIColor.redColor()
+    var col2 = UIColor.redColor()
     var player = 0
     var col = UIColor()
     var gamestate = [2,2,2,2,2,2,2,2,2]
@@ -53,6 +54,7 @@ var col2 = UIColor.redColor()
     @IBOutlet var playAgain: UIButton!
     @IBOutlet var label: UILabel!
     @IBAction func buttonPressed(sender: AnyObject) {
+        println(date)
        
         if player%2 == 0
         {

@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.44.6 clang-602.0.45)"
+options: "923eeb6d0f2aa7c33398dd078eda8e18"
+inputs: 
+- "/Users/phanidharmothukuri/Tic-Tac-Toe/Tic-Tac-ToeTests/Tic_Tac_ToeTests.swift"
