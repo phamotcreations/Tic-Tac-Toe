@@ -6,6 +6,11 @@
 //  Copyright (c) 2015 phamot. All rights reserved.
 //
 
+// Second commit for git squash in develop
+
+// Third commit for squashing in develop
+
+
 import UIKit
 import AVFoundation
 class ViewController: UIViewController {
