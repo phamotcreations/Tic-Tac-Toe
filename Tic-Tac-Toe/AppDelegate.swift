@@ -6,6 +6,9 @@
 //  Copyright (c) 2015 phamot. All rights reserved.
 //
 
+// First commit to test git squash
+
+
 import UIKit
 
 @UIApplicationMain
